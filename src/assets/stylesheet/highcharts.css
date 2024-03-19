@@ -1,0 +1,9 @@
+.MuiCard-root {
+    border-radius: 10px !important;
+
+}
+
+.MuiCardHeader-subheader {
+    color: #000000 !important;
+    font-size: 0.8rem !important;
+}
